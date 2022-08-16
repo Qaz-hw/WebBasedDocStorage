@@ -1,0 +1,6 @@
+/*
+name the app;)
+ */
+
+rootProject.name = 'licensemagick' 
+include('lib')
